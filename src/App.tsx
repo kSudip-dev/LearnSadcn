@@ -15,9 +15,9 @@ function App() {
     <>
       <h2 className='text-blue-600'>Card1</h2>
       <AvailableJobs jobTitle={"Deep Learning"} location={"Sydney,Australia"} expiresIn={21} tags={["Remote","Entry Level","Full Time"]} salary={'50K - 80K AUD(Yearly)'}/>
-      <h2 className='text-lg text-red-600 font-bold'>Skeleton 2</h2>
+      <h2 className='text-lg text-red-600 font-bold'>Apply Job Skeleton</h2>
       <CardSkeleton/>
-      <h2>Skeleton 3</h2>
+      <h2>Apply Now second</h2>
       <NextSkeleton/>
       <h1>Training Program</h1>
       <TrainingProgram/>
